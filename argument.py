@@ -1,4 +1,4 @@
-import xml.etree.ElementTree as etree
+gimport xml.etree.ElementTree as etree
 from xml.etree.ElementTree import ElementTree
 from xml.etree.ElementTree import Element
 import sys
